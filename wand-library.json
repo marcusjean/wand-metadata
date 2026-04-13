@@ -3,6 +3,16 @@
   "last_updated": "2026-04-13",
   "library_name": "WAND Design System",
   "categories": {
+    "000 Foundation": [
+      { "name": "Spacing 8", "key": "de68650b1af037082ada9576c66ec6111aae52e6" },
+      { "name": "Spacing 16", "key": "5ab0f218ddb272300bf3951d153b5dc41c4b13eb" },
+      { "name": "Spacing 24", "key": "ffc0cbccc62e08aaeb86222a7918e9c3431b78ff" },
+      { "name": "Spacing 32", "key": "6259e19e535334474f332f69deb8b23cc8a3b945" },
+      { "name": "Spacing 40", "key": "3e750a58479dc6c07b78e6041fe9a8860f72df26" },
+      { "name": "Spacing 48", "key": "69c620ddfda765669ea17baa8ca79bfbb5d4e513" },
+      { "name": "Spacing 80", "key": "3216063c46779be927a2b119297707d98fdd7d88" },
+      { "name": "Spacing 128", "key": "2c8af654e1e01f4ddf274166b5fa3a61af0e48a9" }
+    ],
     "100 Navigation": [
       { "name": "Default_Header", "type": "COMPONENT_SET", "variants": { "sub_icon_on": "abaebc3f415a8ac902bc6c467f11cca4c7f49740", "sub_icon_off": "7a59ca9980e98ae918a4c1dd44950511d125c5af" } },
       { "name": "Search_Header", "type": "COMPONENT", "key": "9694394e62c832af42286e504d21488a05cc1a3c" },
