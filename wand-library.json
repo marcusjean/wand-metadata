@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-04-13",
+  "library_name": "WAND Design System",
+  "categories": {
+    "100 Navigation": [
+      { "name": "Default_Header", "type": "COMPONENT_SET", "variants": { "sub_icon_on": "abaebc3f415a8ac902bc6c467f11cca4c7f49740", "sub_icon_off": "7a59ca9980e98ae918a4c1dd44950511d125c5af" } },
+      { "name": "Search_Header", "type": "COMPONENT", "key": "9694394e62c832af42286e504d21488a05cc1a3c" },
+      { "name": "OS_Statusbar", "type": "COMPONENT", "key": "36d766a6efbfadf75a98c71515f46ef96f087b0a" },
+      { "name": "Capsule_Tab", "type": "COMPONENT", "key": "c1c95d32d5959252dc49f2a26ea43ef6402d1fad" },
+      { "name": "Segmented_Tab", "type": "COMPONENT", "key": "4933a37fe8d4f9213e00e3d4b0f0490eab533be4" },
+      { "name": "Default_Tab", "type": "COMPONENT", "key": "61e4e2991e95a263280625d35d125eb7fc9666f0" },
+      { "name": "DefaultFlex_Tab", "type": "COMPONENT", "key": "368fa788a34fd6a93edd3564ee8986dc8e086955" }
+    ],
+    "200 Modal": [
+      { "name": "Dialog", "type": "COMPONENT", "key": "f59b5fe2abab59ddff31b08ff7f34819fff4d666" },
+      { "name": "FullPopupBase", "type": "COMPONENT", "key": "bae4825a2d31bffc05d55d25605d8771c6bd94d1" },
+      { "name": "Scrim", "type": "COMPONENT", "key": "5b61a775c76e7955de0f4548be2dffb5ae6fbb3d" },
+      { "name": "Header_Sheet", "type": "COMPONENT", "key": "7632d15d5f3ea36b772ad99652dd1da4bba64bc6" },
+      { "name": "Base_Sheet", "type": "COMPONENT", "key": "f25e68869f6270a0a4b2d6fc0c200f643afa442b" },
+      { "name": "BasicModule_Sheet", "type": "COMPONENT", "key": "efdf2d32f8714921e2aaf89dc200b6ddc229e83d" },
+      { "name": "SelectionList_Sheet", "type": "COMPONENT", "key": "cec168eb533fee4c9c2dbabebe07e5abc5f8a90b" }
+    ],
+    "300 View": [
+      { "name": "SolidMedium_Badge", "type": "COMPONENT_SET", "variants": { "Gray": "cabfd9a1dc280351ea53ee374c76f5914db5bb89", "Black": "8417890764ef49b76c5b4252ea062c898df5ec2e", "Red": "7907521709df4ffc7776dddb4b1c2e349782192f", "Primary": "6a98c30bc9dd8b2e7bf828e8197ea857b4075a6e" } },
+      { "name": "New_Alert", "type": "COMPONENT_SET", "variants": { "Small_OFF": "2e111f61d18d046c426cf6cfc0aab52aced7e195", "Small_ON": "99a7d32b66bee35bc52b8264b705f010a0cc3908" } },
+      { "name": "Divider", "type": "COMPONENT_SET", "variants": { "Default": "f7b00733381dd30eab8b2e7089372bda0482a0d5", "Line": "5cd9d48a66e8b0d95aa1f3cbda3f4c532b6ad87a" } },
+      { "name": "DataCell_List", "type": "COMPONENT", "key": "092dcdb01b73808526d7ae804da2c91454f836b0" }
+    ],
+    "400 Selection&Input": [
+      { "name": "Default_InputField", "type": "COMPONENT_SET", "variants": { "Normal": "37a3c097d632e8788a90bf1c1306eead1f3b0732", "Active": "f69b31e3897f83c970c43553b5ea69d74838896e", "Error": "92e1a1e9cfe0a2f94eea95a8ffe24e1595d56118" } },
+      { "name": "Default_Dropmenu", "type": "COMPONENT_SET", "variants": { "Normal": "cec6066c4c77d01b881257ebf116c0eecf67274a", "Selected": "ecfad9eeffa0e3bf6edf4fa818d678a0382ab5ee" } },
+      { "name": "DatePicker", "type": "COMPONENT", "key": "af105f78ab2f312da4e3e31c64efbe6944d5cfa5" }
+    ],
+    "500 Action": [
+      { "name": "DefaultLarge_Button", "type": "COMPONENT_SET", "variants": { "Primary_ON": "b469d0e8d6356093845b5de17bdcd834fcf7421c", "Secondary_ON": "0232ef7c7270138fd0368712088b6b638921bf88" } },
+      { "name": "CTA_Button_Module", "type": "COMPONENT_SET", "variants": { "One_Button": "a093cb63d21889ea7d043494880d2a48ab56ca64", "Two_Button": "053d1ee623fcff483e814f80aea0f4f2d55dbf48" } }
+    ],
+    "700 Module": [
+      { "name": "Table", "type": "COMPONENT_SET", "variants": { "3-tier": "de999c77e07e1c13c97618a7e41c8f5c725a0b92", "2-tier": "4e1197d75e6747ffea3c3d4ee1560660ffb24c6d" } },
+      { "name": "Notice", "type": "COMPONENT", "key": "3f2c10e4990842276540a27d8f9c843c81bd8985" }
+    ]
+  }
+}
