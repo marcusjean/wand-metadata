@@ -60,7 +60,6 @@
     { "name": "Date_InputField", "key": "d23559e08539c57e52b75ff8aeec3d2b9e76388d", "type": "COMPONENT_SET" },
     { "name": "Search_InputField", "key": "bf65c5debd6bc34dd47bf6a0d0a994867b591348", "type": "COMPONENT_SET" },
     { "name": "Filter", "key": "12d802deea4942661dec2daa64f55d6a3ee4dadd", "type": "COMPONENT_SET" },
-    
     { "name": "CustomCheckList", "key": "add72fca55b8a36085b5e8fac740af69e72c57c3", "type": "COMPONENT_SET" },
     { "name": "CustomCheckButton", "key": "446fb8830b4e3cd84bed1e62f79d9d29afa11034", "type": "COMPONENT" },
     { "name": "KeypadCustom", "key": "172f64b20bc972bb9d5b8f310141b5183a324e62", "type": "COMPONENT" },
@@ -68,8 +67,7 @@
     { "name": "SearchField_InputBar", "key": "89484d1ce14bf860c6c7f5357223c12bde43503b", "type": "COMPONENT_SET" },
     { "name": "DatePicker", "key": "af105f78ab2f312da4e3e31c64efbe6944d5cfa5", "type": "COMPONENT" },
     { "name": "GridSelection", "key": "19c33850e2863db50fdfcf5f57f506a7e5407db1", "type": "COMPONENT" },
-    { "name": "Slider", "key": "8b63df641f0571f71bf466f8d2384bae5182ccde", "type": "COMPONENT_SET" },
-
+    { "name": "Slider", "key": "8b63df641f0571f71bf466f8d2384bae5182ccde", "type": "COMPONENT_SET" }
   ],
   "500 Action": [
     { "name": "CTA Button Module", "key": "a093cb63d21889ea7d043494880d2a48ab56ca64", "type": "COMPONENT_SET" },
