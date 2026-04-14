@@ -1,6 +1,5 @@
 {
   "100 Navigation": [
-    { "name": "OS_Statusbar", "key": "36d766a6efbfadf75a98c71515f46ef96f087b0a", "type": "COMPONENT" },
     { "name": "Default_Header", "key": "abaebc3f415a8ac902bc6c467f11cca4c7f49740", "type": "COMPONENT_SET" },
     { "name": "Default_Tab", "key": "61e4e2991e95a263280625d35d125eb7fc9666f0", "type": "COMPONENT" },
     { "name": "Capsule_Tab", "key": "c1c95d32d5959252dc49f2a26ea43ef6402d1fad", "type": "COMPONENT" },
