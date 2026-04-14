@@ -1,23 +1,46 @@
 {
   "categories": {
     "100 Navigation": [
-      { "name": "OS_Statusbar", "key": "36d766a6efbfadf75a98c71515f46ef96f087b0a" },
-      { "name": "Default_Header", "key": "42c5aa94e3bd1628e9398060a500f0ec3c4973b2", "variants": { "Sub_ON": "abaebc3f415a8ac902bc6c467f11cca4c7f49740", "Sub_OFF": "7a59ca9980e98ae918a4c1dd44950511d125c5af" } },
-      { "name": "Search_Header", "key": "9694394e62c832af42286e504d21488a05cc1a3c" },
-      { "name": "TabmenuCell_Default", "key": "ac63375e77b18a2e7d71c134dc51cad7abea3237", "variants": { "ON": "d2891bffa0b9963ddb6c865778a04994ac5f5e61", "OFF": "6bc2455d2b303b0d4c3bca1b52aadceb096b6906" } },
-      { "name": "TabmenuCell_Capsule", "key": "8c91ddc83302251cc2dd03da48a126237149130d", "variants": { "ON": "ca3abe7738708da0cd060cc1dba650eeb971fdb6", "OFF": "f1e2f1b62b920ea96d2df154d13abe7ba6e1b886" } },
-      { "name": "Segmented", "key": "cfb5659924087f117a0ae2bdb49c384996fd3bb0", "variants": { "ON": "c06357d9f53def5def75effa9e61ab1ffcc05f89", "OFF": "8302486a5d4c7c389fea192ee395a33f8183415e" } },
-      { "name": "Default_Tab", "key": "61e4e2991e95a263280625d35d125eb7fc9666f0" },
-      { "name": "DefaultFlex_Tab", "key": "368fa788a34fd6a93edd3564ee8986dc8e086955" },
-      { "name": "Capsule_Tab", "key": "c1c95d32d5959252dc49f2a26ea43ef6402d1fad" },
-      { "name": "Segmented_Tab", "key": "4933a37fe8d4f9213e00e3d4b0f0490eab533be4" },
-      { "name": "Pagenation", "key": "7bfb74ac20d26c7fda01147dee1a9322a820dd38" },
-      { "name": "PageIndicator", "key": "ea19369f9b49e9f50a41f9d57dd17821e1ecc432", "variants": { "ON": "adba2faf763e2d3e320bf70ed0de8be1178fc856", "OFF": "a1d5502b986d2369184252e2f8dc7cb35bf0a870" } },
-      { "name": "PageCell", "key": "622967328704a2d64b2b2ddaabb327f8f3f6cd62", "variants": { "ON_Active": "29f73974951e1a5d4130f6a6cff1b55c7d70eba5", "ON_Disable": "54a8d7f5ae881e40862ae85253494e4ee0d93f33", "OFF_Active": "32229ee1ad04555db9f87badced0dea2936e7314", "OFF_Disable": "319a369874ee4c8f5f14656c69b0521a93d926d3" } },
-      { "name": "StepIndicator", "key": "5b79f12cbdeb04f5b8c6900872dd8375d331b724", "variants": { "Default": "fc2ef0ec34104e32ba3b9b6b25e4270c30f72b21", "Terms": "b936e468f303bad3aede1fb24bae5de974b410a1" } },
-      { "name": "TopGlow", "key": "5d91fa4228df1da667e82348be2c0397e307da99", "variants": { "Light": "f2aaead0680be78c017a6f93c9902687b6b9c53b", "Dark": "f2e384156f42b43dcf4074b8f62b67240565fcec" } },
-      { "name": "OSBottom", "key": "f9904099c857218012b034a1462fb715937f1a59" }
-    ],
+  {
+    "name": "OS_Statusbar",
+    "key": "36d766a6efbfadf75a98c71515f46ef96f087b0a",
+    "type": "COMPONENT"
+  },
+  {
+    "name": "Default_Header",
+    "key": "42c5aa94e3bd1628e9398060a500f0ec3c4973b2",
+    "type": "COMPONENT_SET",
+    "variants": {
+      "서브 아이콘/텍스트=ON": "abaebc3f415a8ac902bc6c467f11cca4c7f49740",
+      "서브 아이콘/텍스트=OFF": "7a59ca9980e98ae918a4c1dd44950511d125c5af"
+    }
+  },
+  {
+    "name": "Default_Tab",
+    "key": "61e4e2991e95a263280625d35d125eb7fc9666f0",
+    "type": "COMPONENT"
+  },
+  {
+    "name": "Capsule_Tab",
+    "key": "c1c95d32d5959252dc49f2a26ea43ef6402d1fad",
+    "type": "COMPONENT"
+  },
+  {
+    "name": "Segmented_Tab",
+    "key": "4933a37fe8d4f9213e00e3d4b0f0490eab533be4",
+    "type": "COMPONENT"
+  },
+  {
+    "name": "DefaultFlex_Tab",
+    "key": "368fa788a34fd6a93edd3564ee8986dc8e086955",
+    "type": "COMPONENT"
+  },
+  {
+    "name": "Search_Header",
+    "key": "9694394e62c832af42286e504d21488a05cc1a3c",
+    "type": "COMPONENT"
+  }
+],
     "200 Content": [
       { "name": "Notice_Heading", "key": "7ea01cfd9b632fd71f9c6a182eaafb570ef7a917" },
       { "name": "Large_Heading", "key": "c73e90779d466eec743669ff8dfbfd46efd15a85" },
