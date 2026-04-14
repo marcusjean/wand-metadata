@@ -1,23 +1,23 @@
 {
   "individualScreens": [
-    { "name": "일반안내", "key": "be807ce41e4fcf6cffc5820ed54d75b40d75c6e3" },
-    { "name": "영업점상세", "key": "a498d32ac4b8f0f05108cc8e681b86bd9bd714e3" },
+    { "name": "일반안내 시트", "key": "be807ce41e4fcf6cffc5820ed54d75b40d75c6e3" },
+    { "name": "영업점 상세 폼", "key": "a498d32ac4b8f0f05108cc8e681b86bd9bd714e3" },
     { "name": "주소검색", "key": "18501f3927679a432530bb8cc5b1495aa7b128d9" },
-    { "name": "국가선택", "key": "7d422c5e35eb3e37d654ba26cef87cdd56b7de1d" },
-    { "name": "정보확인", "key": "bb087ec2d744a42b254ea5facd53329ecf9445ff" },
+    { "name": "국가 선택", "key": "7d422c5e35eb3e37d654ba26cef87cdd56b7de1d" },
+    { "name": "기본정보 테이블", "key": "bb087ec2d744a42b254ea5facd53329ecf9445ff" },
     { "name": "약관동의", "key": "c19783b47c2cca473b86a3b181dc0822b03bbc62" },
-    { "name": "비밀번호", "key": "e860d2ab6cd143625cd6b828b4a16a10cce86779" },
-    { "name": "은행선택", "key": "d089f29b531c2c49cafaff6524264f7f6963469a" }
+    { "name": "비밀번호 입력 시트", "key": "e860d2ab6cd143625cd6b828b4a16a10cce86779" },
+    { "name": "은행선택 시트", "key": "d089f29b531c2c49cafaff6524264f7f6963469a" }
   ],
   "sectionFlows": [
     {
       "flowName": "가입하기 고통 플로우",
       "screens": [
         { "name": "가입단계", "key": "87e1dff667a062ba2cb2d7e158d25abe910b7486" },
-        { "name": "결과안내", "key": "d6efe6e79220af407b42afb5b48b8aabfbde8797" },
         { "name": "사업자정보조회", "key": "c7f30e778ddf4cac35e1972cdd10debf0647e188" },
         { "name": "선택폼", "key": "9800b6bbacedf81424f266e6cff9f0dee0ca452f" },
-        { "name": "입력필드", "key": "a56ad4069a9d4eb2aa32726acad162a2282965ba" }
+        { "name": "입력필드", "key": "a56ad4069a9d4eb2aa32726acad162a2282965ba" },
+        { "name": "결과안내", "key": "d6efe6e79220af407b42afb5b48b8aabfbde8797" }
       ]
     }
   ]
